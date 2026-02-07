@@ -1,0 +1,11 @@
+Date,Department,Patient_Count,Condition,Condition_Count
+01-01-2024,General Medicine,120,Diabetic,40
+01-01-2024,General Medicine,120,Non-Diabetic,80
+02-01-2024,General Medicine,135,Diabetic,45
+02-01-2024,General Medicine,135,Non-Diabetic,90
+03-01-2024,General Medicine,150,Diabetic,55
+03-01-2024,General Medicine,150,Non-Diabetic,95
+04-01-2024,General Medicine,140,Diabetic,50
+04-01-2024,General Medicine,140,Non-Diabetic,90
+05-01-2024,General Medicine,160,Diabetic,60
+05-01-2024,General Medicine,160,Non-Diabetic,100
